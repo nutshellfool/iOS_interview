@@ -17,6 +17,8 @@
 ###iOS 安全
 
 ##参考资料：
-iOS 安全：[hackingiOS -- 念茜CSDN博客](http://blog.csdn.net/column/details/hackingios.html)
+
+设计模式：[邓同学的百度面试](http://studentdeng.github.io/blog/2014/02/11/baidu-interview/)
+iOS 安全：[hackingiOS -- 念茜CSDN博客](http://blog.csdn.net/column/details/hackingios.html)
 objc.io: [objc.io](http://objc.io)
 objc.io 文章翻译：[objc.io 中文翻译列表](http://iosinit.com/?p=787)
